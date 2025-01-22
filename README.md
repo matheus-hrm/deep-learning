@@ -1,2 +1,2 @@
 # deep-learning
-deep learning notebooks using during course
+jupyter notebooks used during course
